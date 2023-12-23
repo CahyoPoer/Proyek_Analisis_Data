@@ -10,5 +10,5 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
 ```
-https://cahyo-purnomo.streamlit.app
+[https://cahyo-purnomo.streamlit.app](https://cahyo-purnomo.streamlit.app/)https://cahyo-purnomo.streamlit.app/
 ```
